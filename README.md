@@ -1,6 +1,6 @@
 # Chemicals and Red Wine Quality: A Multiple Linear Regression Model
 
-building on the 
+Building on the 
 [Red Wine Quality Regression Project](https://github.com/MarwanHegab/red-wine-quality-regression) by
 using all 11 physicochemical variables (instead of alcohol alone) to model
 red wine quality, with best subset selection to find a parsimonious final
