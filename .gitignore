@@ -1,0 +1,10 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+
+# Course assignment prompt and original code writeup are not part of the
+# published repo (superseded by README.md and analysis.R).
+project_2_instructions.pdf
+project_2_code.pdf
